@@ -1,5 +1,5 @@
 # LI_PM_jobad_analysis
-A data science project about analyzing datas from LinkedIn's Product Manager job advertisements.
+A data science project about analyzing datas from LinkedIn's Product Manager job advertisements. based on my analyses, a blog post will be prepared soon, which can be read by clicking on »» this link ««
 
 This is my first text analytics analysis. I felt that I would be able to do all the steps I wanted in Python. So I used Python for everything from text cleaning to more complex AI analysis.
 
